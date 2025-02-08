@@ -83,3 +83,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact 📧
 
 For inquiries or suggestions, please reach out at lungsomlamnio@gmail.com.
+
+## Screenshots 🖼️
+
+![map with range](./map-image-1.jpeg)
+![map without range](./map-image-2.jpeg)

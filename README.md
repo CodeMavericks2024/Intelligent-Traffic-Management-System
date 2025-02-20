@@ -12,7 +12,7 @@ An advanced traffic management solution designed to analyze and mitigate traffic
 
 ---
 
-## Tech Stack 🫠
+## Tech Stack 🛠️
 
 - **Frontend:** Python Tkinter for desktop UI
 - **Backend:** Flask for server-side processing

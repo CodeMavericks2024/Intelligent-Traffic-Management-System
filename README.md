@@ -31,7 +31,7 @@ An advanced traffic management solution designed to analyze and mitigate traffic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LungsomLamnio/Intellident-Traffic-Managemetn-System.git
+   git clone https://github.com/CodeMavericks2024/Intellident-Traffic-Managemetn-System.git
    cd IntelligentTrafficManagementSystem
    ```
 2. Install dependencies:
